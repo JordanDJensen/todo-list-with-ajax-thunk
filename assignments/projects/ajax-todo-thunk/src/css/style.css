@@ -1,0 +1,53 @@
+body{
+    background-image: url("http://dpeeps.com/wp-content/uploads/2017/06/utah-jazz-logo-iphone-5-utah-jazz-logo-full-hd-pictures-10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.form-control {
+    background-color: darkgreen;
+    width: 60%;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 50px;
+    color:white !important;
+  
+}
+
+h1 {
+    background-color: navy;
+    height: 100px;
+    padding-top: 25px;
+    text-align: center;
+    color: white;
+}
+.submit {
+    margin-top: 50px;
+    background-color: navy;
+    width: 60%;
+}
+.edit{
+     margin-top: 50px;
+    background-color:goldenrod;
+    width: 60%;
+}
+
+.list {
+    background-color: darkgreen;
+    height: 380px;
+    color: white;
+    padding-top: 5px;
+    padding-left:25px;
+    text-align: center;
+}
+
+
+.list {
+    margin-top: 50px;
+}
+
+.color {
+    color:black;
+}
